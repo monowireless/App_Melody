@@ -1,6 +1,6 @@
 [JAPANESE]
-TITLE=圧電ブザーでメロディ
-DESC=圧電ブザーを接続してメロディを再生します。
+TITLE=メロディ
+DESC=圧電ブザーを接続してメロディを奏でるアプリです。
 [ENGLISH]
 TITLE=App_Melody
-DESC=This application connects a piezoelectric buzzer to TWELITE and plays melodies.
+DESC=Play melodies using a piezoelectric buzzer.
